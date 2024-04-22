@@ -19,7 +19,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/rainfall-prediction.git
+    git clone https://github.com/JosephMutyaba/RainfallPredictorML.git
     ```
 
 2. Run the Jupyter Notebook or Python script:
